@@ -18,4 +18,4 @@ az vm create --resource-group sidgs --name k8scontroller --image UbuntuLTS --adm
 - Got to the VM named k8scontroller 
 - Login witu user 'ubuntu' and the key used to create this VM 
 - Git clone this repo
-- Follow instructions in the [readme](../../readme.md) file 
+- Follow instructions in the [readme](../../README.md) file 
